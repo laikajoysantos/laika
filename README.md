@@ -1,4 +1,3 @@
-# School
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,8 +7,8 @@
   <style>
     body { 
       font-family: Arial, sans-serif;
-      margin: 3;
-      padding: 3;
+      margin: 0;
+      padding: 0;
      background: black
       color: black
       display: flex;
@@ -21,7 +20,7 @@
 
     .container {
       text-align: center;
-      padding: 3px;
+      padding: 2px;
     }
 
     .profile-image {
@@ -36,28 +35,28 @@
 
     h1 {
       font-size: 2.5rem;
-      margin: 3px 0;
+      margin: 0px 0;
       color: #333;
     }
 
     p {
       font-size: 1.2rem;
       color: #666;
-      margin: 3px 0;
+      margin: 0px 0;
     }
 
     .info {
       font-size: 1rem;
       color: #55555585;
-      margin: 3px 0;
+      margin: 0px 0;
     }
 
     .social-links {
-      margin-top: 3px;
+      margin-top: 2px;
     }
 
     .social-links a {
-      margin:3px;
+      margin:0px;
       font-size: 1.5rem;
       color: #333333e3;
       text-decoration: blue;
@@ -82,8 +81,8 @@
     <div class="social-links">
       <h6><a href="https://www.facebook.com/laikajoy.santos.2024" target="_blank">my fb account</a> <hr>
       </h6><a
-href="https://www.instagram.com/akiyayoj?igsh=MWo1aDgwZ2t0ZzJmdQ==" target="_blank"><h6>my ig account</a> <hr>
-      <h6><a href="https://www.tiktok.com/@mikasa_2005.8?_t=ZS-8urIx8lpvnk&_r=1" target="_blank">my tiktok account</a></h6>
+href="https://www.instagram.com/akiyayoj?igsh=MWo1aDgwZ2t0ZzJmdQ==" target="_blank"><h6>my ig account</a> 
+      <h6><hr><a href="https://www.tiktok.com/@mikasa_2005.8?_t=ZS-8urIx8lpvnk&_r=1" target="_blank">my tiktok account</a></h6>
     </div>
-  </div>
 </body>
+</html>
