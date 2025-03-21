@@ -1,2 +1,1 @@
-# laika
-hellooo
+# School
